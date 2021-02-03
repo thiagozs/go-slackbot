@@ -2,3 +2,5 @@ slackbot
 .vscode
 .vscode/*
 .envrc
+
+.DS_Store
