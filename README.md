@@ -31,3 +31,7 @@ if err := notifier.Send(
 } 
 ```
 
+## Slack Oauth config for bot
+
+<p align="center">&nbsp;<img align="center" src="assets/oauth_config.png"></img></p>
+
