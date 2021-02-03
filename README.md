@@ -7,6 +7,10 @@ Libs in use in this project.
 
 Simple code for notification.
 
+<p align="center">&nbsp;<img align="center" src="assets/slack_message.png"></img></p>
+
+Sample code 
+
 ```golang
 package main 
 
@@ -26,3 +30,4 @@ if err := notifier.Send(
 	}
 } 
 ```
+
